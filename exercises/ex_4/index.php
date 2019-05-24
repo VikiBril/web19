@@ -1,4 +1,4 @@
-form action="http://html5-book.co.il/teach/forms/get_form2.php" method="get">
+<form action="http://html5-book.co.il/teach/forms/get_form2.php" method="get">
 <label>What is your full name? <input name="fullName">
 <input type="text" name="myName" value=""> </label>
 
