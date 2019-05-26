@@ -103,10 +103,11 @@ h1{
     right: -20%;
     content: '';
     transition: all .3s;
+    background-color: #d1218e;
   }
   
   a:hover .portcullis::after {  
-    background-color: #304E85;
+    background-color: #d1218e;
     border-radius: 50%;
     width: 60%;
     height: 60%;
@@ -910,6 +911,7 @@ body {
     background-color: #ffcc00;
   }
 
+  
 .con1{ float: left;}
 .con2{ float: right;}   
 
